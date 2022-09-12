@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Data Science Jobs' Salaries <small> by Manuel</small>
+# Exploratory Data Analysis of Data Science Jobs' Salaries
 
 ## Objective
 Starting out on a career in data science was exciting, but left me with a load of questions. Apart from the job sections involved in the rather broad ‘data science’, I wanted to find out what regions of the world had the most demand for data scientists, leading to a higher compensation, or pay. What would be the difference between working as a data analyst for a small, medium or large firm and how much does these affect your pay/growth?
